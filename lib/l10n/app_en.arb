@@ -892,6 +892,8 @@
   "@settingsPlayerNativeLibassAccelTitle": {},
   "settingsPlayerBufferSizeTitle": "Video buffer size",
   "@settingsPlayerBufferSizeTitle": {},
+  "settingsPlayerAudioChannelsTitle": "Audio Channels",
+  "@settingsPlayerAudioChannelsTitle": {},
   "settingsPlayerBufferSizeDesc": "Configure the buffer size for video playback, determining how much data is loaded into the cache.",
   "@settingsPlayerBufferSizeDesc": {},
   "settingsPlayerTitle": "Player",
