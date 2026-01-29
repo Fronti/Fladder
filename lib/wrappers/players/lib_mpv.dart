@@ -65,6 +65,10 @@ class LibMPV extends BasePlayer {
         'force-seekable',
         'yes',
       );
+      await (_player?.platform as dynamic).setProperty(
+        'audio-channels',
+        'stereo',
+      );
     }
   }
 
